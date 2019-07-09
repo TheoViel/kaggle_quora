@@ -20,7 +20,7 @@ My best model achieved 0.700 on the public leaderboard, which ranked about 400th
 
 ## Work overview
 
-### Preprocessing : 
+### Preprocessing
 
 - Some special characters cleaning
 - Number processing
@@ -33,14 +33,14 @@ My best model achieved 0.700 on the public leaderboard, which ranked about 400th
 Concatenation of glove, fasttext and paragram.
 4 embeddings were made available by the organisers, I kept those three.
 
-### Features : 
+### Features
 
 - Toxic words ratio
 - Total length
 - word vs unique words
 - ratio of capital letters
 
-### Model:
+### Model
 
 Single model, 5 folds, 4 epochs :
 - Embedding layer + some noise
@@ -51,7 +51,12 @@ Single model, 5 folds, 4 epochs :
 - 32 units dense + reLu + Batchnorm + Dropout
 - And the final layer
 
-## Additional work :
+## Repository 
+
+- `solution_notebook` : The exact notebook I submitted, and that scored 26th. Code is a bit dirty and easily improvable.
+- `capgemini_slides` : Work presented to Data Scientists Capgemini Invent. If you want to understand my code please refer to this notebook. The html slideshow is also available.
+
+## Additional wor
 
 Here are some kernels I made public during the competiton :
 
