@@ -9,13 +9,14 @@ Quora is a platform that empowers people to learn from each other. On Quora, peo
 In this competition, Kagglers will develop models that identify and flag insincere questions. To date, Quora has employed both machine learning and manual review to address this problem. With your help, they can develop more scalable methods to detect toxic and misleading content.
 Here's your chance to combat online trolls at scale. Help Quora uphold their policy of “Be Nice, Be Respectful” and continue to be a place for sharing and growing the world’s knowledge.
 
-See https://www.kaggle.com/c/quora-insincere-questions-classification/overview
+> See https://www.kaggle.com/c/quora-insincere-questions-classification/overview
 
-The metric was the F1-Score, as the problem was an unbalanced binary classification one.
+The metric was the F1-Score, as the problem was an unbalanced binary classification one. Note that all the training had to be made in the kaggle kernels, in less that 2 hours. No external data nor pretrianed models were allowed.
 
+The competition took place from  November, 6 2018 to February, 14 2019.
 ### Results
 
-This competiton was the first one I really invested in. I did it solo, and ended up 26th out of 4037 (private).
+This competiton was the first one I really invested in. I did it solo, and ended up **26th** out of 4037.
 My best model achieved 0.700 on the public leaderboard, which ranked about 400th, but the 0.688 CV model I selected was robust enough to perform well on the private leaderboard.
 
 ## Work overview
@@ -28,7 +29,7 @@ My best model achieved 0.700 on the public leaderboard, which ranked about 400th
 - Latex tags cleaning.
 - No lowering though
 
-## Embeddings 
+### Embeddings 
 
 Concatenation of glove, fasttext and paragram.
 4 embeddings were made available by the organisers, I kept those three.
