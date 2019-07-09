@@ -22,11 +22,11 @@ My best model achieved 0.700 on the public leaderboard, which ranked about 400th
 
 ### Preprocessing : 
 
--Some special characters cleaning
--number processing
--contractions & mispells replacement 
--latex tags cleaning.
--No lowering though
+- Some special characters cleaning
+- Number processing
+- Contractions & mispells replacement 
+- Latex tags cleaning.
+- No lowering though
 
 ## Embeddings 
 
