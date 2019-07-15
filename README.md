@@ -55,9 +55,16 @@ Single model, 5 folds, 4 epochs :
 ## Repository 
 
 - `solution_notebook` : The exact notebook I submitted, and that scored 26th. Code is a bit dirty and easily improvable.
+- `cleaned_solution_notebook` : Modification of the solution notebook (15/07/2019)
 - `capgemini_slides` : Work presented to Data Scientists Capgemini Invent. If you want to understand my code please refer to this notebook. The html slideshow is also available.
 
-## Additional wor
+Both notebooks are available [on Kaggle](https://www.kaggle.com/theoviel/quora-final-submission)
+## Data
+
+Data can be downloaded on [the official Kaggle page](https://www.kaggle.com/c/quora-insincere-questions-classification/data).
+If you wish to rerun the notebook, the easiest way is to fork [the Kaggle kernel](https://www.kaggle.com/theoviel/quora-final-submission)
+
+## Additional work
 
 Here are some kernels I made public during the competiton :
 
