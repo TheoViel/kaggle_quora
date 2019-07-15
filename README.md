@@ -56,7 +56,7 @@ Single model, 5 folds, 4 epochs :
 
 - `solution_notebook` : The exact notebook I submitted, and that scored 26th. Code is a bit dirty and easily improvable.
 - `cleaned_solution_notebook` : Modification of the solution notebook (15/07/2019)
-- `capgemini_slides` : Work presented to Data Scientists Capgemini Invent. If you want to understand my code please refer to this notebook. The html slideshow is also available.
+- `capgemini_slides` : Work presented to Data Scientists at Capgemini Invent. If you want to understand my code, this notebook is a bit more commented. The html slideshow is also available.
 
 Both notebooks are available [on Kaggle](https://www.kaggle.com/theoviel/quora-final-submission)
 ## Data
